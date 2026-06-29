@@ -1,6 +1,12 @@
 #include <Servo.h>
 #include <Arduino.h>
 
+// Author: Kyle Angeles
+// Date-Written: 6/25/26
+// Description: Controlled servo with a joystick based on coordinates based of the xPin and yPin
+// and determining the angle for the servo based off the joysticks values
+// cool lil mini project focused on controlling an electronic part
+
 // Servo Variables
 Servo servo1;
 

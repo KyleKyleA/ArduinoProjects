@@ -23,6 +23,11 @@
 */
 #include <Arduino.h>
 
+
+// Author: Kyle Angeles
+// Date-Written: 23/6/26
+// Description: How to blink an led first program even created 
+
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.

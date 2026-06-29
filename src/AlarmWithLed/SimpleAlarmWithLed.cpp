@@ -3,6 +3,7 @@
 #include <SR04.h>
 
 // Author: Kyle Angeles
+// Date-Written: 6/28/26
 // Description: Simple alarm system that actives buzzer and led when condition is met through distance
 // looking to updating this with the lcd screen for better visual 
 // Updated the project to blink the led and lcd screen to show more visualization prowess

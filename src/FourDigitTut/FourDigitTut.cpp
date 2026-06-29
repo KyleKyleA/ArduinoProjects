@@ -1,4 +1,12 @@
 #include <Arduino.h>
+
+// Author: Kyle Angeles
+// Date-Written: 6/27/26
+// Description: Referenced off a youtube tutorial but my 4 digit 7 segment isn't displaying properly still even tho
+// i wired it properly and programmed it still displaying weird things i might need to order a new one
+// longs of conditional statements and variable declaration
+// great reference 
+
 // Segment pins A-G
 int pinA = 2;
 int pinB = 3;

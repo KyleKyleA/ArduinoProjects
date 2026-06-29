@@ -3,6 +3,10 @@
 #include <SR04.h>
 
 // Author: Kyle Angeles
+// Date-Written: 6/26/26
+// Description: Creating a ultras sonic detection system that detects are object based off the sensor
+// and lists the distance in CM and M based off how far the object is.
+// later on be adding the active buzzer.
 
 
 

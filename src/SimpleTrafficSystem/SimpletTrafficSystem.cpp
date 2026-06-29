@@ -1,7 +1,11 @@
 #include <Arduino.h>
 
 // Author: Kyle Angeles
+// Date-Written: 6/28/26
 // Description: Simply traffic light system with a active buzzer addon every time it hits red
+// added the buzzer to showcase in real time an actual stop sign at red means stop for each driver
+// Learn to control led sequences by intervals just like an actually traffic light.
+// learned to for loop in c++ just for the active buzzer to play frequencies 
 
 
 // LED COLORS
